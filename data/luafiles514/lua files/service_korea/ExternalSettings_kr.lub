@@ -17,7 +17,7 @@ MaxLevelTable = {
 	JobLevelDoram = 60
 }
 MakeableRace = { Doram = true }
-AssistAddr = "0.0.0.0:3000"
+AssistAddr = "161.33.24.23:3001"
 -----------------------------------------
 -- Old client compatibility [Secret]
 -- (Just change the "AssistAddr" to your IP)
