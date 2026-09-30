@@ -1101,7 +1101,7 @@ tbl = {
 		unidentifiedDisplayName = "手製巧克力",
 		unidentifiedResourceName = "荐力檬妮房_",
 		unidentifiedDescriptionName = {
-			"將許多白巧克力隔水加熱融化後, 再放到愛心模型中加以定型, 可充分展現出製作者的誠意。",
+			"將許多白巧克力隔水加熱融化後, 再放到愛心模型中加以定型, 可充分展現出製作者的诚意。",
 			"男生告白時最愛做的。",
 			"^ffffff_^000000",
 			"重量: ^7777778^000000"
@@ -1109,7 +1109,7 @@ tbl = {
 		identifiedDisplayName = "手製巧克力",
 		identifiedResourceName = "荐力檬妮房_",
 		identifiedDescriptionName = {
-			"將許多白巧克力隔水加熱融化後, 再放到愛心模型中加以定型, 可充分展現出製作者的誠意。",
+			"將許多白巧克力隔水加熱融化後, 再放到愛心模型中加以定型, 可充分展現出製作者的诚意。",
 			"男生告白時最愛做的。",
 			"^ffffff_^000000",
 			"重量: ^7777778^000000"
@@ -1599,13 +1599,13 @@ tbl = {
 		unidentifiedDisplayName = "母親的小蛋糕",
 		unidentifiedResourceName = "炼阿纳捞农",
 		unidentifiedDescriptionName = {
-			"會讓心變得溫暖有著母親誠意般的小蛋糕,^000088可讓HP恢復325左右^000000",
+			"會讓心變得溫暖有著母親诚意般的小蛋糕,^000088可讓HP恢復325左右^000000",
 			"重量: ^77777710^000000"
 		},
 		identifiedDisplayName = "母親的小蛋糕",
 		identifiedResourceName = "炼阿纳捞农",
 		identifiedDescriptionName = {
-			"會讓心變得溫暖有著母親誠意般的小蛋糕, ^000088可讓HP恢復325左右^000000",
+			"會讓心變得溫暖有著母親诚意般的小蛋糕, ^000088可讓HP恢復325左右^000000",
 			"重量: ^77777710^000000"
 		},
 		slotCount = 0,
@@ -1798,14 +1798,14 @@ tbl = {
 		unidentifiedResourceName = "濒嘛茄叠扁檬妮房",
 		unidentifiedDescriptionName = {
 			"把生草莓用柔軟的巧克力醬圍繞稍微失敗的樣子",
-			"請不要只看外表 請想到裡面所包含的誠心",
+			"請不要只看外表 請想到裡面所包含的诚心",
 			"重量: ^77777710^000000"
 		},
 		identifiedDisplayName = "可愛的草莓巧克力",
 		identifiedResourceName = "濒嘛茄叠扁檬妮房",
 		identifiedDescriptionName = {
 			"把生草莓用柔軟的巧克力醬圍繞稍微失敗的樣子",
-			"請不要只看外表 請想到裡面所包含的誠心",
+			"請不要只看外表 請想到裡面所包含的诚心",
 			"重量: ^77777710^000000"
 		},
 		slotCount = 0,
@@ -6584,17 +6584,17 @@ tbl = {
 		costume = false
 	},
 	[1004] = {
-		unidentifiedDisplayName = "忠誠之證",
+		unidentifiedDisplayName = "忠诚之證",
 		unidentifiedResourceName = "面例狼刘芭",
 		unidentifiedDescriptionName = {
-			"可以使人忠心於軍隊,提高忠誠,使其帶有騎士的情操。",
+			"可以使人忠心於軍隊,提高忠诚,使其帶有騎士的情操。",
 			"^ffffff_^000000",
 			"重量: ^77777710^000000"
 		},
-		identifiedDisplayName = "忠誠之證",
+		identifiedDisplayName = "忠诚之證",
 		identifiedResourceName = "面例狼刘芭",
 		identifiedDescriptionName = {
-			"可以使人忠心於軍隊,提高忠誠,使其帶有騎士的情操。",
+			"可以使人忠心於軍隊,提高忠诚,使其帶有騎士的情操。",
 			"^ffffff_^000000",
 			"重量: ^77777710^000000"
 		},
@@ -47057,10 +47057,10 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"尚未鑑定；可用[放大鏡]來鑑定物品。"
 		},
-		identifiedDisplayName = "忠誠項鍊",
+		identifiedDisplayName = "忠诚項鍊",
 		identifiedResourceName = "面例狼格吧捞",
 		identifiedDescriptionName = {
-			"象徵對主人表示忠誠的狗項鍊。",
+			"象徵對主人表示忠诚的狗項鍊。",
 			"AGI+2, ",
 			"遭受喵族、動物型的傷害-3%。",
 			"系列: ^777777飾品^000000 防禦: ^7777770^000000",
@@ -105584,7 +105584,7 @@ tbl = {
 		identifiedResourceName = "采促惯",
 		identifiedDescriptionName = {
 			"^ff0000該物品不可與其它帳號交易。^000000",
-			"充滿真誠謝意的美麗花束。",
+			"充滿真诚謝意的美麗花束。",
 			"重量: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -112705,14 +112705,14 @@ tbl = {
 		unidentifiedDisplayName = "奉獻之心",
 		unidentifiedResourceName = "捻迄",
 		unidentifiedDescriptionName = {
-			"為了別人犧牲自己,所散發出熱誠善良之心。",
+			"為了別人犧牲自己,所散發出熱诚善良之心。",
 			"^ffffff_^000000",
 			"重量: ^7777771^000000"
 		},
 		identifiedDisplayName = "奉獻之心",
 		identifiedResourceName = "捻迄",
 		identifiedDescriptionName = {
-			"為了別人犧牲自己,所散發出熱誠善良之心。",
+			"為了別人犧牲自己,所散發出熱诚善良之心。",
 			"^ffffff_^000000",
 			"重量: ^7777771^000000"
 		},
@@ -137316,7 +137316,7 @@ tbl = {
 		unidentifiedDisplayName = "月餅",
 		unidentifiedResourceName = "岿捍",
 		unidentifiedDescriptionName = {
-			"有著誠心製作的月餅甜又好吃,吃一口的話感覺身體變輕似的樣子",
+			"有著诚心製作的月餅甜又好吃,吃一口的話感覺身體變輕似的樣子",
 			"在一定的時間內 ^000088移動速度增加^000000.",
 			"^ffffff_^000000",
 			"重量: ^77777730^000000"
@@ -137324,7 +137324,7 @@ tbl = {
 		identifiedDisplayName = "月餅",
 		identifiedResourceName = "岿捍",
 		identifiedDescriptionName = {
-			"有著誠心製作的月餅甜又好吃, 吃一口的話感覺身體變輕似的樣子",
+			"有著诚心製作的月餅甜又好吃, 吃一口的話感覺身體變輕似的樣子",
 			"在一定的時間內 ^000088移動速度增加^000000.",
 			"^ffffff_^000000",
 			"重量: ^77777730^000000"
@@ -192306,6 +192306,23 @@ tbl = {
         ClassNum = 0,
         costume = false
     },
+	[15842] = {
+		unidentifiedDisplayName = "蝴蝶結",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定物品。" },
+		identifiedDisplayName = "(服飾)落寞的時間",
+		identifiedResourceName = "C_Disapear_Time_TW",
+		identifiedDescriptionName = {
+			"^ff0000可至綿綿島附魔^000000",
+			"系列 : ^777777服飾裝備^000000 防禦 : ^7777770^000000",
+			"位置 : ^777777頭上^000000 重量 : ^7777770^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1998,
+		costume = true
+	},
 	[15843] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "母",
@@ -233386,10 +233403,10 @@ tbl = {
 		identifiedDisplayName = "黑柴犬帽",
 		identifiedResourceName = "八篮矫官捞穿葛磊",
 		identifiedDescriptionName = {
-			"依東洋傳統獵犬的外形所製作的帽子, 對主人忠誠很適合看門。",
+			"依東洋傳統獵犬的外形所製作的帽子, 對主人忠诚很適合看門。",
 			"ATK+30, ",
 			"對喵族、動物型的傷害+10%。",
-			"與忠誠項鍊一起裝備時, 若進行物理攻擊或遭受物理攻擊時有機率變身為'阿特羅斯', 變身期間SP每秒消耗5。",
+			"與忠诚項鍊一起裝備時, 若進行物理攻擊或遭受物理攻擊時有機率變身為'阿特羅斯', 變身期間SP每秒消耗5。",
 			"依黑柴犬帽的精煉程度變身機率會提升。",
 			"系列: ^777777頭具^000000 防禦: ^7777776^000000",
 			"位置: ^777777頭上 ^000000重量: ^77777740^000000",
@@ -268100,7 +268117,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"尚未鑑定；可用[放大鏡]來鑑定物品。"
 		},
-		identifiedDisplayName = "(服飾)魔王夢羅克的忠誠僕人",
+		identifiedDisplayName = "(服飾)魔王夢羅克的忠诚僕人",
 		identifiedResourceName = "家斥葛肺农荐窍",
 		identifiedDescriptionName = {
 			"護衛魔王夢羅克的靈魂殘影。",
@@ -376996,6 +377013,24 @@ tbl = {
 		ClassNum = 1766,
 		costume = true
 	},
+	[31525] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定物品。" },
+		identifiedDisplayName = "(服飾)惡魔小跟班",
+		identifiedResourceName = "部付单呼傅",
+		identifiedDescriptionName = {
+			"緊跟在主人後面的跟屁蟲小惡魔。",
+			"^ff0000可至綿綿島附魔^000000 ",
+			"系列 : ^777777服飾裝備^000000 防禦 : ^7777770^000000",
+			"位置 : ^777777頭中 ^000000重量 : ^7777770^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1036,
+		costume = true
+	},
 	[31526] = {
 		unidentifiedDisplayName = "帽子",
 		unidentifiedResourceName = "母",
@@ -400551,6 +400586,43 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[102128] = {
+		unidentifiedDisplayName = "全能buff藥水",
+		unidentifiedResourceName = "All_In_One_buff",
+		unidentifiedDescriptionName = {
+			"可一次獲得真力量防護卷軸、真魔幻香水、真極限藥水效果的藥水。",
+			"使用後60分鐘內",
+			"DEF+500、MDEF+200。",
+			"ATK、MATK+30，ATK、MATK+1%。",
+			"HIT、FLEE+30，ASPD+1、SP消耗量-5%、變動詠唱時間-30%。",
+			"(固定詠唱的% 增減效果只套用最大的效果。)",
+			"MHP+5%、MSP+5%。",
+			"暴擊傷害、遠距離物理傷害、全屬性魔法傷害+5%。",
+			"詠唱不中斷。",
+			"10分鐘內移動速度上升。",
+			"^000088角色若變為不可戰鬥狀態時，物品效果也會消失。^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "全能buff藥水",
+		identifiedResourceName = "All_In_One_buff",
+		identifiedDescriptionName = {
+			"可一次獲得真力量防護卷軸、真魔幻香水、真極限藥水效果的藥水。",
+			"使用後60分鐘內",
+			"DEF+500、MDEF+200。",
+			"ATK、MATK+30，ATK、MATK+1%。",
+			"HIT、FLEE+30，ASPD+1、SP消耗量-5%、變動詠唱時間-30%。",
+			"(固定詠唱的% 增減效果只套用最大的效果。)",
+			"MHP+5%、MSP+5%。",
+			"暴擊傷害、遠距離物理傷害、全屬性魔法傷害+5%。",
+			"詠唱不中斷。",
+			"10分鐘內移動速度上升。",
+			"^000088角色若變為不可戰鬥狀態時，物品效果也會消失。^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[200000] = {
 		unidentifiedDisplayName = "IDTest Cash",
 		unidentifiedResourceName = "芭固临",
@@ -417683,6 +417755,44 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[314022] = {
+		unidentifiedDisplayName = "十字斬首者石II(頭中)",
+		unidentifiedResourceName = "Assasin_Cross_Figure",
+		unidentifiedDescriptionName = {
+			"十字斬等級每+1，CRI+1，暴擊傷害+2%。",
+			"搭配十字斬首者石(披肩)時，迴旋刀刃傷害+15%。",
+			"搭配十字斬首者石II(披肩)時，十字斬傷害+15%。",
+		},
+		identifiedDisplayName = "十字斬首者石II(頭中)",
+		identifiedResourceName = "Assasin_Cross_Figure",
+		identifiedDescriptionName = {
+			"十字斬等級每+1，CRI+1，暴擊傷害+2%。",
+			"搭配十字斬首者石(披肩)時，迴旋刀刃傷害+15%。",
+			"搭配十字斬首者石II(披肩)時，十字斬傷害+15%。",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[314023] = {
+		unidentifiedDisplayName = "十字斬首者石II(頭下)",
+		unidentifiedResourceName = "Assasin_Cross_Figure",
+		unidentifiedDescriptionName = {
+			"致命爪痕等級每+1，ATK+1%。",
+			"搭配十字斬首者石(披肩)時，近距離物理傷害+10%。",
+			"搭配十字斬首者石II(披肩)時，對全種族對象的物理傷害+15%(玩家除外)。",
+		},
+		identifiedDisplayName = "十字斬首者石II(頭下)",
+		identifiedResourceName = "Assasin_Cross_Figure",
+		identifiedDescriptionName = {
+			"致命爪痕等級每+1，ATK+1%。",
+			"搭配十字斬首者石(披肩)時，近距離物理傷害+10%。",
+			"搭配十字斬首者石II(披肩)時，對全種族對象的物理傷害+15%(玩家除外)。",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[400000] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "府夯",
@@ -421134,6 +421244,36 @@ tbl = {
 		ClassNum = 2210,
 		costume = false
 	},
+	[400368] = {
+		unidentifiedDisplayName = "RO二十週年限定帽",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定道具。" },
+		identifiedDisplayName = "RO二十週年限定帽",
+		identifiedResourceName = "C_20th_Anniversary_Hat",
+		identifiedDescriptionName = {
+			"慶祝RO二十週年所規劃的帽子。",
+			"\n",
+			"MaxHP+2000、MaxSP+200。",
+			"精煉每+2時，ATK、MATK+20。",
+			"精煉每+3時，ATK、MATK+3%。",
+			"精煉+7時，攻擊速度增加(攻擊後延遲-10%)。",
+			"精煉+9時，近/遠距離物理攻擊傷害+10%、全屬性魔法傷害+10%。",
+			"精煉+11時，對全屬性對象的物理/魔法傷害+15%。",
+			"精煉+12時，固定詠唱-0.15秒，每精煉+1，固定詠唱再-0.15秒(精煉12起)。",
+			"\n",
+			"搭配「20週年慶生氣球」時，",
+			"P.ATK+5、S.MATK+5，",
+			"擊殺怪物經驗值增加10%。",
+			"系列 : ^777777頭具^000000 防禦 : ^7777770^000000",
+			"位置 : ^777777頭上^000000 重量 : ^77777710^000000",
+			"防具等級 : ^7777771^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2284,
+		costume = false
+	},
 	[410000] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "母",
@@ -421856,6 +421996,39 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 2171,
 		costume = true
+	},
+	[410254] = {
+		unidentifiedDisplayName = "頭飾",
+		unidentifiedResourceName = "秋抚",
+		unidentifiedDescriptionName = {
+			"尚未鑑定；可用[放大鏡]來鑑定物品。"
+		},
+		identifiedDisplayName = "古代夢羅克貴族首飾",
+		identifiedResourceName = "促捞酒旦",
+		identifiedDescriptionName = {
+			"基本屬性STR每8，ATK+5。",
+			"基本屬性AGI每8，ATK+3。",
+			"基本屬性VIT每8，ATK+2、MATK+2。",
+			"基本屬性INT每8，MATK+5。",
+			"基本屬性DEX每8，ATK+2、MATK+2。",
+			"基本屬性LUK每8，MATK+3。",
+			"\n",
+			"搭配「馬爾杜克卡片」時，技能後延遲-8%，",
+			"對全屬性對象的物理和魔法傷害+12%。",
+			"\n",
+			"搭配「法老王卡片」時，可以看見隱藏的敵人，",
+			"技能後延遲-15%，",
+			"對全屬性對象的物理和魔法傷害+25%。",
+			"^ff0000於TE攻城戰地圖內能力會消失^000000",
+			"系列 : ^777777頭具^000000 防禦 : ^7777770^000000",
+			"位置 : ^777777頭中^000000 重量 : ^77777710^000000",
+			"防具等級 : ^7777771^000000",
+			"要求等級 : ^777777100^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 1,
+		ClassNum = 335,
+		costume = false
 	},
 	[420003] = {
 		unidentifiedDisplayName = "飾品",
@@ -422900,6 +423073,27 @@ tbl = {
 		ClassNum = 2050,
 		costume = true
 	},
+	[420186] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定道具。" },
+		identifiedDisplayName = "20週年慶生氣球",
+		identifiedResourceName = "20th_Anniversary",
+		identifiedDescriptionName = {
+			"慶祝RO二十週年所規劃的氣球。   ",
+			"\n",
+			"P.ATK / S.MATK+2，",
+			"固定詠唱-0.1秒。",
+			"系列 : ^777777頭具^000000 防禦 : ^7777770^000000",
+			"位置 : ^777777頭下^000000 重量 : ^77777710^000000",
+			"防具等級 : ^7777771^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2005,
+		costume = false
+	},
 	[436000] = {
 		unidentifiedDisplayName = "面具",
 		unidentifiedResourceName = "胶付老",
@@ -423346,7 +423540,7 @@ tbl = {
 		unidentifiedResourceName = "内瓢寂明",
 		unidentifiedDescriptionName = { "[尚未鑑定；可用[放大鏡]來鑑定物品。" },
 		identifiedDisplayName = "庫庫爾坎的表皮",
-		identifiedResourceName = "胶挪坷宏亥捧胶",
+		identifiedResourceName = "入蝴狼肺宏",
 		identifiedDescriptionName = {
 			"由羽蛇神所脫落的皮膚所製成的鎧甲, 若使用者能夠駕馭它的話, 將能獲得重生的力量。",
 			"MHP+3%、MSP+3%。",
@@ -429625,6 +429819,47 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[470354] = {
+		unidentifiedDisplayName = "尼羅河貴族高跟鞋-LT",
+		unidentifiedResourceName = "酱令",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定物品。" },
+		identifiedDisplayName = "尼羅河貴族高跟鞋-LT",
+		identifiedResourceName = "Applause_Sandal_LT",
+		identifiedDescriptionName = {
+			"All State+5，ATK+50，MATK+50。",
+			"精煉每+2，技能後延遲-2%。",
+			"精煉每+3，攻擊速度增加 (攻擊後延遲-3%)。",
+			"精煉+7時，ATK+100，MATK+100。",
+			"精煉+9時，固定詠唱-0.5秒。",
+			"精煉+11時，對全體型對象的物理和魔法傷害+12%。",
+			"精煉+13時，對全種族對象的物理和魔法傷害+12%。",
+			"\n",
+			"搭配「俄塞里斯卡片」時，",
+			"技能後延遲-10%，",
+			"精煉每+1，All State+1，ATK+1%，MATK+1%，",
+			"精煉每+2，全特性素質+2，P.ATK、S.MATK+2。",
+			"\n",
+			"搭配「古埃及王卡片」時，",
+			"近/遠距離物理傷害+25%、全屬性魔法傷害+25%。",
+			"\n",
+			"搭配「法老王卡片」時，",
+			"對首領階級對象的物理和魔法傷害+25%。",
+			"\n",
+			"^CC3D3D[各階級追加能力]^000000",
+			"[D階級] POW、SPL、CON+3。",
+			"[C階級] 固定詠唱再-0.5秒。",
+			"[B階級] 對全屬性對象的物理和魔法傷害+12%。",
+			"[A階級] 對全階級對象的物理和魔法傷害+12%。",
+			"系列 : ^777777鞋子^000000 防禦 : ^7777777^000000",
+			"重量 : ^77777720^000000",
+			"防具等級 : ^7777772^000000",
+			"要求等級 : ^777777100^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[480000] = {
 		unidentifiedDisplayName = "Unidentified Manteau",
 		unidentifiedResourceName = "饶靛",
@@ -431288,6 +431523,78 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
+	},
+	[480169] = {
+		unidentifiedDisplayName = "連帽披肩",
+		unidentifiedResourceName = "饶靛",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定道具。" },
+		identifiedDisplayName = "(服飾)魔王搖滾電吉他",
+		identifiedResourceName = "C_Diabolic_Rock_Guitar",
+		identifiedDescriptionName = {
+			"^ff0000可至綿綿島附魔^000000",
+			"系列 : ^777777服飾裝備^000000 防禦: ^7777770^000000",
+			"位置 : ^777777披肩^000000 重量 : ^7777770^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 0,
+		ClassNum = 125,
+		costume = true
+	},
+	[480189] = {
+		unidentifiedDisplayName = "連帽披肩",
+		unidentifiedResourceName = "饶靛",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定道具。" },
+		identifiedDisplayName = "(服飾)墮落女武神之翼",
+		identifiedResourceName = "Valkyrie_Curse_blight",
+		identifiedDescriptionName = {
+			"被詛咒的魔球吸入而迷失方向的生命力變成了結晶，蘊含著荒廢的力量。",
+			"^ff0000可至綿綿島附魔^000000",
+			"系列 : ^777777服飾裝備^000000 防禦 : ^7777770^000000",
+			"位置 : ^777777披肩^000000 重量 : ^7777770^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 0,
+		ClassNum = 131,
+		costume = true
+	},
+	[480207] = {
+		unidentifiedDisplayName = "連帽披肩",
+		unidentifiedResourceName = "饶靛",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定道具。" },
+		identifiedDisplayName = "(服飾)旅行者背包",
+		identifiedResourceName = "C_Traveller_Bag",
+		identifiedDescriptionName = {
+			"大容量、防風、透氣、抗UV，非常適合旅行時使用。",
+			"^ff0000可至綿綿島附魔^000000",
+			"系列 : ^777777服飾裝備^000000 防禦 : ^7777770^000000",
+			"位置 : ^777777披肩^000000 重量 : ^7777770^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 0,
+		ClassNum = 137,
+		costume = true
+	},
+	[480315] = {
+		unidentifiedDisplayName = "連帽披肩",
+		unidentifiedResourceName = "饶靛",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定道具。" },
+		identifiedDisplayName = "(服飾)禮儀之劍",
+		identifiedResourceName = "C_Milky",
+		identifiedDescriptionName = {
+			"以銀河為靈感命名，仿照奈里烏思家門傳家寶製成的劍。",
+			"鑲有綠寶石裝飾，增添高貴感。",
+			"^ff0000可至綿綿島附魔^000000",
+			"系列 : ^777777服飾裝備^000000 防禦 : ^7777770^000000",
+			"位置 : ^777777披肩^000000 重量 : ^7777770^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備 : ^777777全職業^000000"
+		},
+		slotCount = 0,
+		ClassNum = 176,
+		costume = true
 	},
 	[490004] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
@@ -434709,6 +435016,28 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
+	},
+	[490443] = {
+		unidentifiedDisplayName = "飾品",
+		unidentifiedResourceName = "傅",
+		unidentifiedDescriptionName = { "尚未鑑定；可用[放大鏡]來鑑定物品。" },
+		identifiedDisplayName = "21週年回憶錄",
+		identifiedResourceName = "局厘魄合",
+		identifiedDescriptionName = {
+			"MHP、SP+8%。",
+			"對全階級的物理和魔法傷害+8%。",
+			"\n",
+			"搭配「RO二十週年限定帽」時，",
+			"依照頭盔精煉值每+1，ATK、MATK+10。",
+			"依照頭盔精煉值每+2，擊殺魔物獲得的經驗值和掉寶率+1%。",
+			"系列: ^777777飾品^000000",
+			"防禦: ^7777770^000000  重量: ^77777710^000000",
+			"防具等級 : ^7777771^000000",
+			"要求等級 : ^7777771^000000",
+			"裝備: ^777777全職業^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
 	},
 	[500000] = {
 		unidentifiedDisplayName = "IDTest weapon",
@@ -460810,6 +461139,60 @@ tbl = {
 			"要小心不要融化。",
 			"^ff0000(該道具將於活動結束後刪除。)^000000",
 			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1002097] = {
+		unidentifiedDisplayName = "十字斬首者石II(頭中)",
+		unidentifiedResourceName = "康去狼炼阿",
+		unidentifiedDescriptionName = {
+			"可啟發十字斬首者潛力的石頭。",
+			"於服飾頭中欄位賦予以下能力值。",
+			"十字斬等級每+1，CRI+1，暴擊傷害+2%。",
+			"搭配十字斬首者石(披肩)時，迴旋刀刃傷害+15%。",
+			"搭配十字斬首者石II(披肩)時，十字斬傷害+15%。",
+			"^ffffff<NAVI>^4D4DFF[阿維爾 道旭]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "十字斬首者石II(頭中)",
+		identifiedResourceName = "康去狼炼阿",
+		identifiedDescriptionName = {
+			"可啟發十字斬首者潛力的石頭。",
+			"於服飾頭中欄位賦予以下能力值。",
+			"十字斬等級每+1，CRI+1，暴擊傷害+2%。",
+			"搭配十字斬首者石(披肩)時，迴旋刀刃傷害+15%。",
+			"搭配十字斬首者石II(披肩)時，十字斬傷害+15%。",
+			"^ffffff<NAVI>^4D4DFF[阿維爾 道旭]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1002098] = {
+		unidentifiedDisplayName = "十字斬首者石II(頭下)",
+		unidentifiedResourceName = "康去狼炼阿",
+		unidentifiedDescriptionName = {
+			"可啟發十字斬首者潛力的石頭。",
+			"於服飾頭下欄位賦予以下能力值。",
+			"致命爪痕等級每+1，ATK+1%。",
+			"搭配十字斬首者石(披肩)時，近距離物理傷害+10%。",
+			"搭配十字斬首者石II(披肩)時，對全種族對象的物理傷害+15%(玩家除外)。",
+			"^ffffff<NAVI>^4D4DFF[阿維爾 道旭]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "十字斬首者石II(頭下)",
+		identifiedResourceName = "康去狼炼阿",
+		identifiedDescriptionName = {
+			"可啟發十字斬首者潛力的石頭。",
+			"於服飾頭下欄位賦予以下能力值。",
+			"致命爪痕等級每+1，ATK+1%。",
+			"搭配十字斬首者石(披肩)時，近距離物理傷害+10%。",
+			"搭配十字斬首者石II(披肩)時，對全種族對象的物理傷害+15%(玩家除外)。",
+			"^ffffff<NAVI>^4D4DFF[阿維爾 道旭]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^77777710^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
