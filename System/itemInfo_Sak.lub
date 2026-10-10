@@ -38521,7 +38521,7 @@ tbl = {
 		identifiedResourceName = "缴魄狼捡",
 		identifiedDescriptionName = {
 			"古代戰爭時對付惡魔時所使用的某位神官之遺物。",
-			"FLEE+5, 遭受攻擊時有機率觸發祈禱文Lv.2。(會依自己所學 Lv發動)",
+			"FLEE+5, 遭受攻擊時有機率觸發祈祷文Lv.2。(會依自己所學 Lv發動)",
 			"系列: ^777777披肩^000000 防禦: ^77777712^000000",
 			"重量: ^77777740^000000",
 			"要求等級: ^777777100^000000",
@@ -40352,10 +40352,10 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"尚未鑑定；可用[放大鏡]來鑑定物品。"
 		},
-		identifiedDisplayName = "晚禱鐘核心01",
+		identifiedDisplayName = "晚祷鐘核心01",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
-			"好像是構成晚禱鐘零件的一部份,據說有提神的魔法力存在",
+			"好像是構成晚祷鐘零件的一部份,據說有提神的魔法力存在",
 			"MDEF+3,INT+2,MAX SP+5%。",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777710^000000",
@@ -40371,10 +40371,10 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"尚未鑑定；可用[放大鏡]來鑑定物品。"
 		},
-		identifiedDisplayName = "晚禱鐘核心02",
+		identifiedDisplayName = "晚祷鐘核心02",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
-			"好像是構成晚禱鐘零件的一部份,據說有提高力量的魔法力存在",
+			"好像是構成晚祷鐘零件的一部份,據說有提高力量的魔法力存在",
 			"MDEF+3,STR+3,ATK+10。",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777710^000000",
@@ -40390,10 +40390,10 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"尚未鑑定；可用[放大鏡]來鑑定物品。"
 		},
-		identifiedDisplayName = "晚禱鐘核心03",
+		identifiedDisplayName = "晚祷鐘核心03",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
-			"好像是構成晚禱鐘零件的一部份,據說可以讓身體變輕的魔法力存在",
+			"好像是構成晚祷鐘零件的一部份,據說可以讓身體變輕的魔法力存在",
 			"MDEF+3,AGI+3,FLEE+5。",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777710^000000",
@@ -40409,10 +40409,10 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"尚未鑑定；可用[放大鏡]來鑑定物品。"
 		},
-		identifiedDisplayName = "晚禱鐘核心04",
+		identifiedDisplayName = "晚祷鐘核心04",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
-			"好像是構成晚禱鐘零件的一部份,據說有提高正確性和集中力魔法力的存在",
+			"好像是構成晚祷鐘零件的一部份,據說有提高正確性和集中力魔法力的存在",
 			"MDEF+3,DEX+3,HIT+10。",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777710^000000",
@@ -41162,22 +41162,22 @@ tbl = {
 		costume = false
 	},
 	[2696] = {
-		unidentifiedDisplayName = "晚禱鐘核心01",
+		unidentifiedDisplayName = "晚祷鐘核心01",
 		unidentifiedResourceName = "傅",
 		unidentifiedDescriptionName = {
 			"^000088租賃物品^000000",
-			"好像是構成晚禱鐘零件的一部份,據說有著讓精神清澈的魔法力量存在",
+			"好像是構成晚祷鐘零件的一部份,據說有著讓精神清澈的魔法力量存在",
 			"MDEF+3, INT+2 , MAX SP+5% (限定無法交易、丟棄)",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777750^000000",
 			"要求等級: ^7777771^000000",
 			"裝備: ^777777初學者以外的全職業^000000"
 		},
-		identifiedDisplayName = "晚禱鐘核心01",
+		identifiedDisplayName = "晚祷鐘核心01",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
 			"^000088租賃物品^000000",
-			"好像是構成晚禱鐘零件的一部份, 據說有著讓精神清澈的魔法力量存在",
+			"好像是構成晚祷鐘零件的一部份, 據說有著讓精神清澈的魔法力量存在",
 			"MDEF+3, INT+2, MAX SP+5% (限定無法交易、丟棄)",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777750^000000",
@@ -41189,22 +41189,22 @@ tbl = {
 		costume = false
 	},
 	[2697] = {
-		unidentifiedDisplayName = "晚禱鐘核心02",
+		unidentifiedDisplayName = "晚祷鐘核心02",
 		unidentifiedResourceName = "傅",
 		unidentifiedDescriptionName = {
 			"^000088租賃物品^000000",
-			"好像是構成晚禱鐘零件的一部份,據說有著強而有力的魔法力量存在",
+			"好像是構成晚祷鐘零件的一部份,據說有著強而有力的魔法力量存在",
 			"MDEF+3, STR+3  ATK+10 (限定無法交易、丟棄)",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777750^000000",
 			"要求等級: ^7777771^000000",
 			"裝備: ^777777初學者以外的全職業^000000"
 		},
-		identifiedDisplayName = "晚禱鐘核心02",
+		identifiedDisplayName = "晚祷鐘核心02",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
 			"^000088租賃物品^000000",
-			"好像是構成晚禱鐘零件的一部份, 據說有著強而有力的魔法力量存在",
+			"好像是構成晚祷鐘零件的一部份, 據說有著強而有力的魔法力量存在",
 			"MDEF+3, STR+3  ATK+10 (限定無法交易、丟棄)",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777750^000000",
@@ -41216,22 +41216,22 @@ tbl = {
 		costume = false
 	},
 	[2698] = {
-		unidentifiedDisplayName = "晚禱鐘核心03",
+		unidentifiedDisplayName = "晚祷鐘核心03",
 		unidentifiedResourceName = "傅",
 		unidentifiedDescriptionName = {
 			"^000088租賃物品^000000",
-			"好像是構成晚禱鐘零件的一部份,據說有著讓身體變輕盈的魔法力量存在",
+			"好像是構成晚祷鐘零件的一部份,據說有著讓身體變輕盈的魔法力量存在",
 			"MDEF+3, AGI+3  FLEE+5 (限定無法交易、丟棄)",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777750^000000",
 			"要求等級: ^7777771^000000",
 			"裝備: ^777777初學者以外的全職業^000000"
 		},
-		identifiedDisplayName = "晚禱鐘核心03",
+		identifiedDisplayName = "晚祷鐘核心03",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
 			"^000088租賃物品^000000",
-			"好像是構成晚禱鐘零件的一部份, 據說有著讓身體變輕盈的魔法力量存在",
+			"好像是構成晚祷鐘零件的一部份, 據說有著讓身體變輕盈的魔法力量存在",
 			"MDEF+3, AGI+3  FLEE+5 (限定無法交易、丟棄)",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777750^000000",
@@ -41243,22 +41243,22 @@ tbl = {
 		costume = false
 	},
 	[2699] = {
-		unidentifiedDisplayName = "晚禱鐘核心04",
+		unidentifiedDisplayName = "晚祷鐘核心04",
 		unidentifiedResourceName = "傅",
 		unidentifiedDescriptionName = {
 			"^000088租賃物品^000000",
-			"好像是構成晚禱鐘零件的一部份,據說有著提高正確性和集中力的魔法力量存在",
+			"好像是構成晚祷鐘零件的一部份,據說有著提高正確性和集中力的魔法力量存在",
 			"MDEF+3, DEX+3  HIT+10 (限定無法交易、丟棄)",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777750^000000",
 			"要求等級: ^7777771^000000",
 			"裝備: ^777777初學者以外的全職業^000000"
 		},
-		identifiedDisplayName = "晚禱鐘核心04",
+		identifiedDisplayName = "晚祷鐘核心04",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
 			"^000088租賃物品^000000",
-			"好像是構成晚禱鐘零件的一部份, 據說有著提高正確性和集中力的魔法力量存在",
+			"好像是構成晚祷鐘零件的一部份, 據說有著提高正確性和集中力的魔法力量存在",
 			"MDEF+3, DEX+3  HIT+10 (限定無法交易、丟棄)",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777750^000000",
@@ -72927,7 +72927,7 @@ tbl = {
 		identifiedDisplayName = "蠟燭",
 		identifiedResourceName = "眯阂",
 		identifiedDescriptionName = {
-			"贈與給寺院做為祈禱時使用的蠟燭, 好像還有著寺院裡神聖的氣息的樣子",
+			"贈與給寺院做為祈祷時使用的蠟燭, 好像還有著寺院裡神聖的氣息的樣子",
 			"所有屬性+1。",
 			"系列: ^777777頭具^000000 防禦: ^7777770^000000",
 			"位置: ^777777頭上^000000 重量: ^77777715^000000",
@@ -119692,13 +119692,13 @@ tbl = {
 		unidentifiedDisplayName = "端午節香包",
 		unidentifiedResourceName = "林赣聪",
 		unidentifiedDescriptionName = {
-			"祈禱幸运的小物品..",
+			"祈祷幸运的小物品..",
 			"重量: ^7777770^000000"
 		},
 		identifiedDisplayName = "端午節香包",
 		identifiedResourceName = "林赣聪",
 		identifiedDescriptionName = {
-			"祈禱幸运的小物品..",
+			"祈祷幸运的小物品..",
 			"重量: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -136276,13 +136276,13 @@ tbl = {
 		unidentifiedDisplayName = "紅色信封",
 		unidentifiedResourceName = "墨橇扼疙技辑",
 		unidentifiedDescriptionName = {
-			"有著祈禱新年新希望的心所裝入的紅色信封",
+			"有著祈祷新年新希望的心所裝入的紅色信封",
 			"重量: ^7777771^000000"
 		},
 		identifiedDisplayName = "紅色信封",
 		identifiedResourceName = "墨橇扼疙技辑",
 		identifiedDescriptionName = {
-			"有著祈禱新年新希望的心所裝入的紅色信封",
+			"有著祈祷新年新希望的心所裝入的紅色信封",
 			"重量: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -150849,10 +150849,10 @@ tbl = {
 		costume = false
 	},
 	[12961] = {
-		unidentifiedDisplayName = "晚禱鐘核心01箱子",
+		unidentifiedDisplayName = "晚祷鐘核心01箱子",
 		unidentifiedResourceName = "坷贰等焊扼惑磊",
 		unidentifiedDescriptionName = {
-			"裝有1個晚禱鐘核心01的箱子,注意破損!",
+			"裝有1個晚祷鐘核心01的箱子,注意破損!",
 			"^ffffff_^000000",
 			"^000088出租物品^000000",
 			"開封後, 可使用十四日",
@@ -150860,10 +150860,10 @@ tbl = {
 			"^ff0000本物品不可取消或退費^000000",
 			"重量: ^7777771^000000"
 		},
-		identifiedDisplayName = "晚禱鐘核心01箱子",
+		identifiedDisplayName = "晚祷鐘核心01箱子",
 		identifiedResourceName = "坷贰等焊扼惑磊",
 		identifiedDescriptionName = {
-			"裝有1個晚禱鐘核心01的箱子, 注意破損!",
+			"裝有1個晚祷鐘核心01的箱子, 注意破損!",
 			"^ffffff_^000000",
 			"^000088出租物品^000000",
 			"開封後, 可使用七日",
@@ -150876,10 +150876,10 @@ tbl = {
 		costume = false
 	},
 	[12962] = {
-		unidentifiedDisplayName = "晚禱鐘核心02箱子",
+		unidentifiedDisplayName = "晚祷鐘核心02箱子",
 		unidentifiedResourceName = "坷贰等焊扼惑磊",
 		unidentifiedDescriptionName = {
-			"裝有1個晚禱鐘核心02的箱子,注意破損!",
+			"裝有1個晚祷鐘核心02的箱子,注意破損!",
 			"^ffffff_^000000",
 			"^000088出租物品^000000",
 			"開封後, 可使用十四日",
@@ -150887,10 +150887,10 @@ tbl = {
 			"^ff0000本物品不可取消或退費^000000",
 			"重量: ^7777771^000000"
 		},
-		identifiedDisplayName = "晚禱鐘核心02箱子",
+		identifiedDisplayName = "晚祷鐘核心02箱子",
 		identifiedResourceName = "坷贰等焊扼惑磊",
 		identifiedDescriptionName = {
-			"裝有1個晚禱鐘核心02的箱子, 注意破損!",
+			"裝有1個晚祷鐘核心02的箱子, 注意破損!",
 			"^ffffff_^000000",
 			"^000088出租物品^000000",
 			"開封後, 可使用七日",
@@ -150903,10 +150903,10 @@ tbl = {
 		costume = false
 	},
 	[12963] = {
-		unidentifiedDisplayName = "晚禱鐘核心03箱子",
+		unidentifiedDisplayName = "晚祷鐘核心03箱子",
 		unidentifiedResourceName = "坷贰等焊扼惑磊",
 		unidentifiedDescriptionName = {
-			"裝有1個晚禱鐘核心03的箱子,注意破損!",
+			"裝有1個晚祷鐘核心03的箱子,注意破損!",
 			"^ffffff_^000000",
 			"^000088出租物品^000000",
 			"開封後, 可使用十四日",
@@ -150914,10 +150914,10 @@ tbl = {
 			"^ff0000本物品不可取消或退費^000000",
 			"重量: ^7777771^000000"
 		},
-		identifiedDisplayName = "晚禱鐘核心03箱子",
+		identifiedDisplayName = "晚祷鐘核心03箱子",
 		identifiedResourceName = "坷贰等焊扼惑磊",
 		identifiedDescriptionName = {
-			"裝有1個晚禱鐘核心03的箱子, 注意破損!",
+			"裝有1個晚祷鐘核心03的箱子, 注意破損!",
 			"^ffffff_^000000",
 			"^000088出租物品^000000",
 			"開封後, 可使用七日",
@@ -150930,10 +150930,10 @@ tbl = {
 		costume = false
 	},
 	[12964] = {
-		unidentifiedDisplayName = "晚禱鐘核心04箱子",
+		unidentifiedDisplayName = "晚祷鐘核心04箱子",
 		unidentifiedResourceName = "坷贰等焊扼惑磊",
 		unidentifiedDescriptionName = {
-			"裝有1個晚禱鐘核心04的箱子,注意破損!",
+			"裝有1個晚祷鐘核心04的箱子,注意破損!",
 			"^ffffff_^000000",
 			"^000088出租物品^000000",
 			"開封後, 可使用十四日",
@@ -150941,10 +150941,10 @@ tbl = {
 			"^ff0000本物品不可取消或退費^000000",
 			"重量: ^7777771^000000"
 		},
-		identifiedDisplayName = "晚禱鐘核心04箱子",
+		identifiedDisplayName = "晚祷鐘核心04箱子",
 		identifiedResourceName = "坷贰等焊扼惑磊",
 		identifiedDescriptionName = {
-			"裝有1個晚禱鐘核心04的箱子, 注意破損!",
+			"裝有1個晚祷鐘核心04的箱子, 注意破損!",
 			"^ffffff_^000000",
 			"^000088出租物品^000000",
 			"開封後, 可使用七日",
@@ -237559,10 +237559,10 @@ tbl = {
 			"對於主人的死感到非常的哀傷, 某個機器娃娃遺留下來的零件。",
 			"裡面充滿他們兩個愛的東西。",
 			"MaxHP+2%, MDEF+7。",
-			"和晚禱鐘核心01一起裝備時INT+8、MaxSP+5%。",
-			"和晚禱鐘核心02一起裝備時STR+8、ATK+20",
-			"和晚禱鐘核心03一起裝備時AGI+7、FLEE+15",
-			"和晚禱鐘核心04一起裝備時DEX+7、HIT+10。",
+			"和晚祷鐘核心01一起裝備時INT+8、MaxSP+5%。",
+			"和晚祷鐘核心02一起裝備時STR+8、ATK+20",
+			"和晚祷鐘核心03一起裝備時AGI+7、FLEE+15",
+			"和晚祷鐘核心04一起裝備時DEX+7、HIT+10。",
 			"系列: ^777777頭具^000000 防禦: ^7777770^000000",
 			"位置: ^777777頭中 ^000000重量: ^77777710^000000",
 			"要求等級: ^7777771^000000",
@@ -260314,7 +260314,7 @@ tbl = {
 		identifiedDisplayName = "(服飾)印花圍巾",
 		identifiedResourceName = "乔赴飘胶墨橇",
 		identifiedDescriptionName = {
-			"用許多祈禱製作的服飾圍巾，",
+			"用許多祈祷製作的服飾圍巾，",
 			"也叫做魔術三角頭巾。",
 			"^ff0000可至綿綿島附魔^000000",
 			"系列 : ^777777服飾裝備^000000 防禦 : ^7777770^000000",
@@ -268304,7 +268304,7 @@ tbl = {
 		identifiedResourceName = "货秦狼蝴",
 		identifiedDescriptionName = {
 			"代表今年第一個日出的吉祥服飾光輝。",
-			"據說第一道曙光將會帶來巨大的祝福, 並且感謝去年的平安及祈禱今年的健康幸福。",
+			"據說第一道曙光將會帶來巨大的祝福, 並且感謝去年的平安及祈祷今年的健康幸福。",
 			"^ff0000可至綿綿島附魔^000000 ",
 			"系列 : ^777777服飾裝備^000000 防禦 : ^7777770^000000",
 			"位置 : ^777777頭中 ^000000重量 : ^7777770^000000",
@@ -347896,15 +347896,15 @@ tbl = {
 		costume = false
 	},
 	[28302] = {
-		unidentifiedDisplayName = "晚禱鐘核心",
+		unidentifiedDisplayName = "晚祷鐘核心",
 		unidentifiedResourceName = "傅",
 		unidentifiedDescriptionName = {
 			"尚未鑑定, 可使用[放大鏡]進行鑑定。"
 		},
-		identifiedDisplayName = "晚禱鐘核心01",
+		identifiedDisplayName = "晚祷鐘核心01",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
-			"組成晚禱鐘的一種零件, 擁有可以讓精神變好的魔法。",
+			"組成晚祷鐘的一種零件, 擁有可以讓精神變好的魔法。",
 			"MDEF+3、INT+2、MAX SP+5%。",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777710^000000",
@@ -347915,15 +347915,15 @@ tbl = {
 		costume = false
 	},
 	[28303] = {
-		unidentifiedDisplayName = "晚禱鐘核心",
+		unidentifiedDisplayName = "晚祷鐘核心",
 		unidentifiedResourceName = "傅",
 		unidentifiedDescriptionName = {
 			"尚未鑑定, 可使用[放大鏡]進行鑑定。"
 		},
-		identifiedDisplayName = "晚禱鐘核心02",
+		identifiedDisplayName = "晚祷鐘核心02",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
-			"組成晚禱鐘的一種零件, 擁有可以讓力量變強的魔法。",
+			"組成晚祷鐘的一種零件, 擁有可以讓力量變強的魔法。",
 			"MDEF+3、STR+3  ATK+10。",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777710^000000",
@@ -347934,15 +347934,15 @@ tbl = {
 		costume = false
 	},
 	[28304] = {
-		unidentifiedDisplayName = "晚禱鐘核心",
+		unidentifiedDisplayName = "晚祷鐘核心",
 		unidentifiedResourceName = "傅",
 		unidentifiedDescriptionName = {
 			"尚未鑑定, 可使用[放大鏡]進行鑑定。"
 		},
-		identifiedDisplayName = "晚禱鐘核心03",
+		identifiedDisplayName = "晚祷鐘核心03",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
-			"組成晚禱鐘的一種零件, 擁有可以讓身體變輕的魔法。",
+			"組成晚祷鐘的一種零件, 擁有可以讓身體變輕的魔法。",
 			"MDEF+3、AGI+3  FLEE+5。",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777710^000000",
@@ -347953,15 +347953,15 @@ tbl = {
 		costume = false
 	},
 	[28305] = {
-		unidentifiedDisplayName = "晚禱鐘核心",
+		unidentifiedDisplayName = "晚祷鐘核心",
 		unidentifiedResourceName = "傅",
 		unidentifiedDescriptionName = {
 			"尚未鑑定, 可使用[放大鏡]進行鑑定。"
 		},
-		identifiedDisplayName = "晚禱鐘核心04",
+		identifiedDisplayName = "晚祷鐘核心04",
 		identifiedResourceName = "海胶欺内绢",
 		identifiedDescriptionName = {
-			"組成晚禱鐘的一種零件, 擁有可以讓準確度和專注力提高的魔法。",
+			"組成晚祷鐘的一種零件, 擁有可以讓準確度和專注力提高的魔法。",
 			"MDEF+3、DEX+3  HIT+10。",
 			"系列: ^777777飾品^000000",
 			"防禦: ^7777771^000000      重量: ^77777710^000000",
@@ -350765,8 +350765,8 @@ tbl = {
 			"搭配附魔[治癒Lv.1]時, LUK+2, 完全迴避+5。",
 			"使用技能時, SP消耗量 -5%。",
 			"使用治癒系技能時, HP恢復量+3%。",
-			"[聖靈降臨祈禱]的冷卻時間 -10秒。",
-			"使用[聖靈降臨祈禱]時, SP消耗 -100。",
+			"[聖靈降臨祈祷]的冷卻時間 -10秒。",
+			"使用[聖靈降臨祈祷]時, SP消耗 -100。",
 			"系列: ^777777飾品^000000 防禦: ^7777770^000000",
 			"重量: ^77777740^000000",
 			"要求等級: ^77777790^000000",
@@ -374234,7 +374234,7 @@ tbl = {
 		identifiedDisplayName = "(服飾)豐年祭紀念帽",
 		identifiedResourceName = "Harvest_Festa_Hat",
 		identifiedDescriptionName = {
-			"為了紀念豐年祭而製作的帽子，每次看到熊熊烈火，就會感謝這一年穀物能夠健康成長，祈禱明年也是一個大豐收年。",
+			"為了紀念豐年祭而製作的帽子，每次看到熊熊烈火，就會感謝這一年穀物能夠健康成長，祈祷明年也是一個大豐收年。",
 			"系列 : ^777777服飾裝備^000000 防禦 : ^7777770^000000",
 			"位置 : ^777777頭上 ^000000重量 : ^7777770^000000",
 			"要求等級 : ^7777771^000000",
@@ -383760,7 +383760,7 @@ tbl = {
 		identifiedResourceName = "C_PGstone_Knit_Hat_PK",
 		identifiedDescriptionName = {
 			"由喵族父母將舊衣翻新而成的適合女性喵族戴的針織帽。",
-			"上面繡著祈禱冒險安全的貓爪飾品。",
+			"上面繡著祈祷冒險安全的貓爪飾品。",
 			"^ff0000可至綿綿島附魔^000003 ",
 			"系列: ^777777服飾裝備^000000 防禦: ^7777770^000000",
 			"位置: ^777777頭上 ^000000 重量: ^7777770^000000",
