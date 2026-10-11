@@ -1578,7 +1578,7 @@ tbl = {
 		unidentifiedDisplayName = "德國香腸",
 		unidentifiedResourceName = "何福胶萍",
 		unidentifiedDescriptionName = {
-			"有著好吃的模樣和香味一品的傳統香腸,這時候搭配著用麥製作的酒的話,真的是錦上添花",
+			"有著好吃的模樣和香味一品的傳統香腸,這時候搭配著用麥製作的酒的話,真的是锦上添花",
 			"^000088恢復少量的HP^000000,施展聖母之頌歌Lv.3",
 			"^ffffff_^000000",
 			"重量: ^7777774^000000"
@@ -1586,7 +1586,7 @@ tbl = {
 		identifiedDisplayName = "德國香腸",
 		identifiedResourceName = "何福胶萍",
 		identifiedDescriptionName = {
-			"有著好吃的模樣和香味一品的傳統香腸, 這時候搭配著用麥製作的酒的話, 真的是錦上添花",
+			"有著好吃的模樣和香味一品的傳統香腸, 這時候搭配著用麥製作的酒的話, 真的是锦上添花",
 			"^000088恢復少量的HP^000000, 施展聖母之頌歌Lv.3",
 			"^ffffff_^000000",
 			"重量: ^7777774^000000"
@@ -111423,7 +111423,7 @@ tbl = {
 		unidentifiedDisplayName = "可可",
 		unidentifiedResourceName = "墨墨坷",
 		unidentifiedDescriptionName = {
-			"又稱為可可亞, 熱帶常綠植物, 錦葵科, 原產於南美。",
+			"又稱為可可亞, 熱帶常綠植物, 锦葵科, 原產於南美。",
 			"將果實取出乾燥後便是可可豆, 將其烘焙後磨成粉便是可可膏。",
 			"將可可膏濃縮萃取出脂肪厚就成為可可亞, 而萃取出的脂肪則稱為可可脂。",
 			"在可可膏的階段添加牛奶香料使其定型後便是巧克力。",
@@ -111433,7 +111433,7 @@ tbl = {
 		identifiedDisplayName = "可可",
 		identifiedResourceName = "墨墨坷",
 		identifiedDescriptionName = {
-			"又稱為可可亞, 熱帶常綠植物, 錦葵科, 原產於南美。",
+			"又稱為可可亞, 熱帶常綠植物, 锦葵科, 原產於南美。",
 			"將果實取出乾燥後便是可可豆, 將其烘焙後磨成粉便是可可膏。",
 			"將可可膏濃縮萃取出脂肪厚就成為可可亞, 而萃取出的脂肪則稱為可可脂。",
 			"在可可膏的階段添加牛奶香料使其定型後便是巧克力。",
@@ -131017,14 +131017,14 @@ tbl = {
 		costume = false
 	},
 	[11532] = {
-		unidentifiedDisplayName = "印尼什錦炒飯",
+		unidentifiedDisplayName = "印尼什锦炒飯",
 		unidentifiedResourceName = "唱矫绊防",
 		unidentifiedDescriptionName = {
 			"在米上加入海鮮、肉、蔬菜及調味料後加以炒熟的料理。",
 			"可恢復少量的 HP",
 			"重量: ^7777772^000000"
 		},
-		identifiedDisplayName = "印尼什錦炒飯",
+		identifiedDisplayName = "印尼什锦炒飯",
 		identifiedResourceName = "唱矫绊防",
 		identifiedDescriptionName = {
 			"在米上加入海鮮、肉、蔬菜及調味料後加以炒熟的料理。",
@@ -233384,7 +233384,7 @@ tbl = {
 		identifiedDisplayName = "羽毛貝雷帽",
 		identifiedResourceName = "标判海饭葛",
 		identifiedDescriptionName = {
-			"不僅配戴舒適加上天藍色系深具質感的高級帽子, 羽毛更是錦上添花。",
+			"不僅配戴舒適加上天藍色系深具質感的高級帽子, 羽毛更是锦上添花。",
 			"MDEF+1, 遭受人類型的傷害-10%。",
 			"系列: ^777777頭具^000000 防禦: ^7777771^000000",
 			"位置: ^777777頭上^000000 重量: ^77777760^000000",
@@ -251541,7 +251541,7 @@ tbl = {
 		identifiedDisplayName = "(服飾)羽毛貝雷帽",
 		identifiedResourceName = "标判海饭葛",
 		identifiedDescriptionName = {
-			"不僅配戴舒適加上天藍色系深具質感的高級帽子, 羽毛更是錦上添花。",
+			"不僅配戴舒適加上天藍色系深具質感的高級帽子, 羽毛更是锦上添花。",
 			"^ff0000可至綿綿島附魔^000000 ",
 			"系列: ^777777服裝服飾^000000",
 			"位置: ^777777頭上 ^000000 重量: ^7777770^000000",
@@ -388560,19 +388560,19 @@ tbl = {
 		costume = false
 	},
 	[100075] = {
-		unidentifiedDisplayName = "5等級什錦料理",
+		unidentifiedDisplayName = "5等級什锦料理",
 		unidentifiedResourceName = "父茄傈籍",
 		unidentifiedDescriptionName = {
-			"5等級什錦料理。",
+			"5等級什锦料理。",
 			"All State+5，持續20分鐘。",
 			"使用後HP/SP恢復5%。",
 			"死亡時效果會消失。",
 			"重量: ^7777775^000000"
 		},
-		identifiedDisplayName = "5等級什錦料理",
+		identifiedDisplayName = "5等級什锦料理",
 		identifiedResourceName = "父茄傈籍",
 		identifiedDescriptionName = {
-			"5等級什錦料理。",
+			"5等級什锦料理。",
 			"All State+5，持續20分鐘。",
 			"使用後HP/SP恢復5%。",
 			"死亡時效果會消失。",
@@ -388583,19 +388583,19 @@ tbl = {
 		costume = false
 	},
 	[100076] = {
-		unidentifiedDisplayName = "6等級什錦料理",
+		unidentifiedDisplayName = "6等級什锦料理",
 		unidentifiedResourceName = "父茄傈籍",
 		unidentifiedDescriptionName = {
-			"6等級什錦料理",
+			"6等級什锦料理",
 			"All State+6，持續20分鐘。",
 			"使用後HP/SP恢復6%。",
 			"死亡時效果會消失。",
 			"重量: ^7777775^000000"
 		},
-		identifiedDisplayName = "6等級什錦料理",
+		identifiedDisplayName = "6等級什锦料理",
 		identifiedResourceName = "父茄傈籍",
 		identifiedDescriptionName = {
-			"6等級什錦料理",
+			"6等級什锦料理",
 			"All State+6，持續20分鐘。",
 			"使用後HP/SP恢復6%。",
 			"死亡時效果會消失。",
@@ -388606,19 +388606,19 @@ tbl = {
 		costume = false
 	},
 	[100077] = {
-		unidentifiedDisplayName = "7等級什錦料理",
+		unidentifiedDisplayName = "7等級什锦料理",
 		unidentifiedResourceName = "父茄傈籍",
 		unidentifiedDescriptionName = {
-			"7等級什錦料理。",
+			"7等級什锦料理。",
 			"All State+7，持續20分鐘。",
 			"使用後HP/SP恢復7%。",
 			"死亡時效果會消失。",
 			"重量: ^7777775^000000"
 		},
-		identifiedDisplayName = "7等級什錦料理",
+		identifiedDisplayName = "7等級什锦料理",
 		identifiedResourceName = "父茄傈籍",
 		identifiedDescriptionName = {
-			"7等級什錦料理。",
+			"7等級什锦料理。",
 			"All State+7，持續20分鐘。",
 			"使用後HP/SP恢復7%。",
 			"死亡時效果會消失。",
@@ -388629,19 +388629,19 @@ tbl = {
 		costume = false
 	},
 	[100078] = {
-		unidentifiedDisplayName = "8等級什錦料理",
+		unidentifiedDisplayName = "8等級什锦料理",
 		unidentifiedResourceName = "父茄傈籍",
 		unidentifiedDescriptionName = {
-			"8等級什錦料理。",
+			"8等級什锦料理。",
 			"All State+8，持續20分鐘。",
 			"使用後HP/SP恢復8%。",
 			"死亡時效果會消失。",
 			"重量: ^7777775^000000"
 		},
-		identifiedDisplayName = "8等級什錦料理",
+		identifiedDisplayName = "8等級什锦料理",
 		identifiedResourceName = "父茄傈籍",
 		identifiedDescriptionName = {
-			"8等級什錦料理。",
+			"8等級什锦料理。",
 			"All State+8，持續20分鐘。",
 			"使用後HP/SP恢復8%。",
 			"死亡時效果會消失。",
@@ -388652,19 +388652,19 @@ tbl = {
 		costume = false
 	},
 	[100079] = {
-		unidentifiedDisplayName = "9等級什錦料理",
+		unidentifiedDisplayName = "9等級什锦料理",
 		unidentifiedResourceName = "父茄傈籍",
 		unidentifiedDescriptionName = {
-			"9等級什錦料理。",
+			"9等級什锦料理。",
 			"All State+9，持續20分鐘。",
 			"使用後HP/SP恢復9%。",
 			"死亡時效果會消失。",
 			"重量: ^7777775^000000"
 		},
-		identifiedDisplayName = "9等級什錦料理",
+		identifiedDisplayName = "9等級什锦料理",
 		identifiedResourceName = "父茄傈籍",
 		identifiedDescriptionName = {
-			"9等級什錦料理。",
+			"9等級什锦料理。",
 			"All State+9，持續20分鐘。",
 			"使用後HP/SP恢復9%。",
 			"死亡時效果會消失。",
@@ -388675,19 +388675,19 @@ tbl = {
 		costume = false
 	},
 	[100080] = {
-		unidentifiedDisplayName = "10等級什錦料理",
+		unidentifiedDisplayName = "10等級什锦料理",
 		unidentifiedResourceName = "父茄傈籍",
 		unidentifiedDescriptionName = {
-			"10等級什錦料理。",
+			"10等級什锦料理。",
 			"All State+10，持續20分鐘。",
 			"使用後HP/SP恢復10%。",
 			"死亡時效果會消失。",
 			"重量: ^7777775^000000"
 		},
-		identifiedDisplayName = "10等級什錦料理",
+		identifiedDisplayName = "10等級什锦料理",
 		identifiedResourceName = "父茄傈籍",
 		identifiedDescriptionName = {
-			"10等級什錦料理。",
+			"10等級什锦料理。",
 			"All State+10，持續20分鐘。",
 			"使用後HP/SP恢復10%。",
 			"死亡時效果會消失。",
@@ -390424,7 +390424,7 @@ tbl = {
 		costume = false
 	},
 	[100192] = {
-		unidentifiedDisplayName = "藍色魔力礦石錦囊",
+		unidentifiedDisplayName = "藍色魔力礦石锦囊",
 		unidentifiedResourceName = "Gemstone_Blue",
 		unidentifiedDescriptionName = {
 			"^ff0000\"※注意:背包中保管的道具超過3萬個時，道具有可能會消失。\"^000000 ",
@@ -390432,7 +390432,7 @@ tbl = {
 			"裝有藍色魔力礦石500個。",
 			"重量: ^77777725^000000"
 		},
-		identifiedDisplayName = "藍色魔力礦石錦囊",
+		identifiedDisplayName = "藍色魔力礦石锦囊",
 		identifiedResourceName = "Gemstone_Blue",
 		identifiedDescriptionName = {
 			"^ff0000\"※注意:背包中保管的道具超過3萬個時，道具有可能會消失。\"^000000 ",
@@ -390445,7 +390445,7 @@ tbl = {
 		costume = false
 	},
 	[100193] = {
-		unidentifiedDisplayName = "黃色魔力礦石錦囊",
+		unidentifiedDisplayName = "黃色魔力礦石锦囊",
 		unidentifiedResourceName = "Gemstone_YL",
 		unidentifiedDescriptionName = {
 			"^ff0000\"※注意:背包中保管的道具超過3萬個時，道具有可能會消失。\"^000000 ",
@@ -390453,7 +390453,7 @@ tbl = {
 			"裝有黃色魔力礦石500個。",
 			"重量: ^77777725^000000"
 		},
-		identifiedDisplayName = "黃色魔力礦石錦囊",
+		identifiedDisplayName = "黃色魔力礦石锦囊",
 		identifiedResourceName = "Gemstone_YL",
 		identifiedDescriptionName = {
 			"^ff0000\"※注意:背包中保管的道具超過3萬個時，道具有可能會消失。\"^000000 ",
@@ -390466,7 +390466,7 @@ tbl = {
 		costume = false
 	},
 	[100194] = {
-		unidentifiedDisplayName = "紅色魔力礦石錦囊",
+		unidentifiedDisplayName = "紅色魔力礦石锦囊",
 		unidentifiedResourceName = "Gemstone_Red",
 		unidentifiedDescriptionName = {
 			"^ff0000\"※注意:背包中保管的道具超過3萬個時，道具有可能會消失。\"^000000 ",
@@ -390474,7 +390474,7 @@ tbl = {
 			"裝有紅色魔力礦石500個。",
 			"重量: ^77777725^000000"
 		},
-		identifiedDisplayName = "紅色魔力礦石錦囊",
+		identifiedDisplayName = "紅色魔力礦石锦囊",
 		identifiedResourceName = "Gemstone_Red",
 		identifiedDescriptionName = {
 			"^ff0000\"※注意:背包中保管的道具超過3萬個時，道具有可能會消失。\"^000000 ",
